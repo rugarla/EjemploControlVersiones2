@@ -31,5 +31,12 @@ h <- 2
 AreaTriangulo <- b*h/2
 ```
 
+#Área Rectángulo
+
+```{r}
+b <- 3
+h <- 2
+AreaRectangulo <- b*h
+```
 
 
