@@ -39,4 +39,13 @@ h <- 2
 AreaRectangulo <- b*h
 ```
 
+#Área Trapecio
+
+```{r}
+b <- 3
+B <- 5
+h <- 2
+AreaRectangulo <- (b+B)*h/2
+```
+
 
