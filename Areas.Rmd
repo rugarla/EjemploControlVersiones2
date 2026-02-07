@@ -1,5 +1,18 @@
 ---
 title: "Areas"
+author: "Rubén García Lajara"
+date: "2026-02-07"
 output: html_document
 ---
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Área Círculo
+
+```{r}
+r <-0.5
+Area <- pi*r^2
+```
 
